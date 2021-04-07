@@ -1,0 +1,24 @@
+{
+  "name": "predicted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fttp-ra/red-neuronal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fttp-ra/red-neuronal/issues"
+  },
+  "homepage": "https://github.com/fttp-ra/red-neuronal#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "python-shell": "^3.0.0"
+  }
+}
