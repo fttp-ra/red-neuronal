@@ -31,7 +31,7 @@ def predict(filepath):
 
 # Lets Predict By Model
 text = predict('./captcha1.png')
-print("Predicted Captcha =",predict('./captcha1.png'))
+print("Predicted Captcha =",text)
 
 with open('text.json', 'w') as f:
     json.dump(text, f)
